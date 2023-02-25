@@ -32,7 +32,7 @@ const localeText = (locale: string): string => {
     case 'zh-TW':
       return '🇹🇼 繁體中文'
     default:
-      return '🇬🇧 English'
+      return '🇨🇳 简体中文'
   }
 }
 
