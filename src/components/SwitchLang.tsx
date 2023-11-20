@@ -30,7 +30,7 @@ const localeText = (locale: string): string => {
     case 'tr-TR':
       return '🇹🇷 Türkçe'
     default:
-      return '🇨🇳 简体中文'
+      return '🇬🇧 English'
   }
 }
 
